@@ -103,9 +103,7 @@ Dataset: [ChatGPT-Style Reviews Dataset](https://docs.google.com/spreadsheets/d/
 ```
 AI-Echo-Sentiment-Analysis/
 │── app.py                 # Streamlit Dashboard
-│── train_model.py         # Training Script
-│── data_prep.py           # Data Preprocessing
-│── AI_Echo_Sentiment_Project.ipynb  # Jupyter Notebook (EDA + Training)
+│── Echo.ipynb             # Jupyter Notebook (EDA + Training)
 │── artifacts/             # Trained Models & Outputs
 │── configs/               # Config files
 │── README.md              # Project Documentation
